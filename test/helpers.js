@@ -1,7 +1,7 @@
 define([
   'intern!object',
   'intern/chai!assert',
-  'intern/order!source/js/helpers.js'
+  'intern/order!source/js/src/utils.js'
 ], function (registerSuite, assert) {
   registerSuite({
     name: 'helpers',

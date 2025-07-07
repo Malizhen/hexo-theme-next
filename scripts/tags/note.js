@@ -1,7 +1,7 @@
 /**
  * note.js | global hexo script.
  *
- * ATTENTION! No need to write this tag in 1 line if u don't want see probally bugs.
+ * ATTENTION! No need to write this tag in 1 line if u don't want see probably bugs.
  *
  * Usage:
  *
